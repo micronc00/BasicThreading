@@ -1,0 +1,19 @@
+C:\Users\Ron Carl\source\repos\MyThreads\MyThreads\bin\Debug\MyThreads.exe.config
+C:\Users\Ron Carl\source\repos\MyThreads\MyThreads\bin\Debug\MyThreads.exe
+C:\Users\Ron Carl\source\repos\MyThreads\MyThreads\bin\Debug\MyThreads.pdb
+C:\Users\Ron Carl\source\repos\MyThreads\MyThreads\obj\Debug\MyThreads.csproj.AssemblyReference.cache
+C:\Users\Ron Carl\source\repos\MyThreads\MyThreads\obj\Debug\MyThreads.frmTrackThread.resources
+C:\Users\Ron Carl\source\repos\MyThreads\MyThreads\obj\Debug\MyThreads.Properties.Resources.resources
+C:\Users\Ron Carl\source\repos\MyThreads\MyThreads\obj\Debug\MyThreads.csproj.GenerateResource.cache
+C:\Users\Ron Carl\source\repos\MyThreads\MyThreads\obj\Debug\MyThreads.csproj.CoreCompileInputs.cache
+C:\Users\Ron Carl\source\repos\MyThreads\MyThreads\obj\Debug\MyThreads.exe
+C:\Users\Ron Carl\source\repos\MyThreads\MyThreads\obj\Debug\MyThreads.pdb
+C:\Users\ComputerLab4PC1\Desktop\MyThreads\MyThreads\bin\Debug\MyThreads.exe.config
+C:\Users\ComputerLab4PC1\Desktop\MyThreads\MyThreads\bin\Debug\MyThreads.exe
+C:\Users\ComputerLab4PC1\Desktop\MyThreads\MyThreads\bin\Debug\MyThreads.pdb
+C:\Users\ComputerLab4PC1\Desktop\MyThreads\MyThreads\obj\Debug\MyThreads.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\Desktop\MyThreads\MyThreads\obj\Debug\MyThreads.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\Desktop\MyThreads\MyThreads\obj\Debug\MyThreads.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\Desktop\MyThreads\MyThreads\obj\Debug\MyThreads.exe
+C:\Users\ComputerLab4PC1\Desktop\MyThreads\MyThreads\obj\Debug\MyThreads.pdb
+C:\Users\ComputerLab4PC1\Desktop\MyThreads\MyThreads\obj\Debug\MyThreads.frmBasicThread.resources
